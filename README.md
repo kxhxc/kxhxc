@@ -5,8 +5,6 @@
 [![](https://wakatime.com/badge/user/0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
 ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
-<img src="(https://cdn.discordapp.com/attachments/1034827041058598992/1043530804443234314/Knrl_dsc.jpeg)"></img>
-
 ![TW-Knrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=TW-Knrl&show_icons=true&theme=radical)
 
 </div>
