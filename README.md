@@ -1,7 +1,6 @@
 <div align="center">
 
 # TW-Knrl
-## abusing requests since '20
 
 [![](https://wakatime.com/badge/user/0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
 ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
@@ -25,6 +24,7 @@ I'm Knrl and I typically work with JS and C. I started learning how to code abou
 * Python
 * HTML
 * Java (a little)
+* Kotlin
 
 # Disclaimer
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
