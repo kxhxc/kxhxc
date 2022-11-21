@@ -10,7 +10,7 @@
 </div>
 
 ## About
-I'm Knrl and I typically work with JS and C. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+I'm Knrl and I typically work with JS and C#. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 
 ## Current projects
 * [Veylib](https://veylib.netlify.app) - Library for C# applications
