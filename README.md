@@ -3,10 +3,8 @@
 # Kerely
 
 [![](https://wakatime.com/badge/user/0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
+
 [![](https://discord.c99.nl/widget/theme-3/956985663188779038.png)](https://discord.c99.nl/widget/theme-3/956985663188779038.png)
-
-![TW-Knrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=TW-Knrl&show_icons=true&theme=radical)
-
 </div>
 
 ## About
