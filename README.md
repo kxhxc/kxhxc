@@ -18,9 +18,8 @@ I'm Knrl and I usually work with JS, C# and PY. I started learning to code in 20
 ## Languages that ik
 * JavaScript
 * Python
-* HTML
-* Java 
 * C#
+* C++
 
 # Disclaimer
 since i make illegal things (lol), All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
