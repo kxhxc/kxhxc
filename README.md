@@ -14,6 +14,7 @@ I'm Knrl and I usually work with JS, C# and PY. I started learning to code in 20
 * [AstralFN](https://github.com/TW-Knrl/Astralbackend) - A Fortnite Server , more info in the [WebSite](http://astralfn.ml) or in [Discord](https://dsc.gg/astralfn)
 * [AstralGen](https://github.com/TW-Knrl/Astral-gen) - Discord Nitro Generator, works using the OperaGX partnership glitch lol.
 * [AstralLeaks](https://github.com/AstralLeaks) - Leaking source codes :100:
+* [Astral Bomber](https://github.com/TW-Knrl/Astral-Bomber) - Powerful Email Bomber lol
 
 ## Languages that ik
 * JavaScript
