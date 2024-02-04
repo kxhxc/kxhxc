@@ -11,7 +11,7 @@
 I'm Knrl and I usually work with JS, C# and PY. I started learning to code in 2019-20, when I was bored and didn't feel like writing an essay in English. Since then, it has grown on me, as well as learning how computers interact with each other and how they function internally. I hope in the future, I can get into software development.
 
 ## Current Project(s)
-* [AstralFN](https://github.com/TW-Knrl/Astralbackend) - A Fortnite Server , more info in the [WebSite](http://astralfn.ml) or in [Discord](https://dsc.gg/astralfn)
+* [AstralFN](https://github.com/TW-Knrl/Astralbackend) - A Fortnite Server , more info in the [WebSite](http://astralfn.astralmods.com) or in [Discord](https://discord.gg/ktools)
 * [AstralGen](https://github.com/TW-Knrl/Astral-gen) - Discord Nitro Generator, works using the OperaGX partnership glitch lol.
 * [AstralLeaks](https://github.com/AstralLeaks) - Leaking source codes :100:
 * [Astral Bomber](https://github.com/TW-Knrl/Astral-Bomber) - Powerful Email Bomber lol
