@@ -4,7 +4,7 @@
 
 [![](nololhttps://wakatime.com/badge/user/0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
 
-[![](https://discord.c99.nl/widget/theme-3/1178442639918510161.png)](https://discord.c99.nl/widget/theme-3/1178442639918510161.png)
+[![](https://discord.c99.nl/widget/theme-3/1189520634187878462.png)](https://discord.c99.nl/widget/theme-3/1189520634187878462.png)
 </div>
 
 ## About
