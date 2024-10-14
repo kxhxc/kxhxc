@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://discord.c99.nl/widget/theme-3/1189520634187878462.png)](https://discord.c99.nl/widget/theme-3/1189520634187878462.png)
+[![](https://discord.c99.nl/widget/theme-1/1189520634187878462.png)](https://discord.c99.nl/widget/theme-1/1189520634187878462.png)
 </div>
 
 # Disclaimer
